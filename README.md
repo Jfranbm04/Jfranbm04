@@ -3,9 +3,9 @@
 ![Jfranbm04 Banner Image](https://github.com/Jfranbm04/Jfranbm04/blob/main/banner.png)
 
 <!--Penguin gif-->
-<div>
+<!-- <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+</div> -->
 
 <!--Header Name-->
 <h1 align="center">
@@ -14,6 +14,13 @@
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for Java, Kotlin, React.js, Symfony and REST API </p>
+<!-- <picture> <img align="right" src="[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://tenor.com/view/jaded-disappointed-down-let-down-computer-gif-1285925441942160315)" width = 400px></picture> -->
+
+
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-dodgerblue" />
+</p>
 
 - ✨ Student of life :)
 - 🌱 I'm studying backend in depth, learning Laravel and some Unity things in my free time 😉.
@@ -23,7 +30,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jfranbm04&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Jfranbm04&color=brightgreen" alt="watching_count" />
 </p>
 
 ---
@@ -38,16 +45,16 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Kiran1689/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Kiran1689&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
-<br />
+<br /> -->
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -87,7 +94,7 @@
     </td>
   </tr>
 </table>
-<br />
+<br /> -->
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
