@@ -1,11 +1,8 @@
 
 <!--Banner-->
-![Jfranbm04 Banner Image](https://github.com/Jfranbm04/Jfranbm04/blob/main/banner.png)
-
-<!--Penguin gif-->
-<!-- <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div> -->
+<p align="center">
+  <img src="https://github.com/Jfranbm04/Jfranbm04/blob/main/banner.png?raw=true" width="70%" alt="Banner">
+</p>
 
 <!--Header Name-->
 <h1 align="center">
