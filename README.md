@@ -14,12 +14,11 @@
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for Java, Kotlin, React.js, Symfony and REST API </p>
-<!-- <picture> <img align="right" src="[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://tenor.com/view/jaded-disappointed-down-let-down-computer-gif-1285925441942160315)" width = 400px></picture> -->
 
-
- <p align="left">
+<picture> <img align="right" src="https://github.com/Jfranbm04/Jfranbm04/blob/main/penguin_disappointed.gif" width = 200px></picture>
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-dodgerblue" />
 </p>
 
 - ✨ Student of life :)
