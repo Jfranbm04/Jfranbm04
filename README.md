@@ -1,7 +1,7 @@
 
 <!--Banner-->
 <p align="center">
-  <img src="https://github.com/Jfranbm04/Jfranbm04/blob/main/Banner2.png?raw=true" width="70%" alt="Banner">
+  <img src="https://github.com/Jfranbm04/Jfranbm04/blob/main/Banner2.png?raw=true" alt="Banner">
 </p>
 
 <!--Header Name-->
